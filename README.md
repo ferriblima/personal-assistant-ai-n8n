@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Personal Assistant AI is an application designed to manage your emails, calendar events, and perform various other functionalities through a Telegram bot interface. It leverages **n8n** workflows and **OpenAI’s LLM** to interpret user requests and execute actions such as scheduling events or drafting emails.
+Personal Assistant AI is an application designed to manage your emails, schedule calendar events, and perform various other functions through a Telegram bot interface. It leverages **n8n** workflows and **OpenAI’s LLM** to interpret user requests and execute actions through **agents**, such as scheduling events or drafting emails.
 
 ---
 
