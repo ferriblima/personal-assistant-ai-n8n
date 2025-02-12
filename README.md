@@ -12,7 +12,7 @@ Personal Assistant AI is an application designed to manage your emails, calendar
 
 #### Telegram Chat Interface (text and voice)
 <div align="center">
-  <img src="images/telegram_event_chat.jpeg" width="400">
+  <img src="images/telegram_event_chat.jpeg" width="250">
 </div>
 
 2. **AI Processing**:  
